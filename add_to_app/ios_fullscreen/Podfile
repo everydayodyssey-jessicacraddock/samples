@@ -17,7 +17,7 @@ target 'IOSFullScreen' do
   end
 
   target 'IOSFullScreenUITests' do
-    inherit! :search_paths
+    # inherit! :search_paths
     # Pods for testing
   end
 
